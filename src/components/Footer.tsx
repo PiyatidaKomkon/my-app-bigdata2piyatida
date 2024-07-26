@@ -27,7 +27,7 @@ export default function Footer() {
         <form>
           <h6 className="footer-title">Newsletter</h6>
           <fieldset className="form-control w-80">
-            <label className="label">
+            <label className="label"> AEC Ranking
               <span className="label-text">Enter your email address</span>
             </label>
             <div className="join">
